@@ -51,7 +51,7 @@ Users are able to:
 ### Links
 
 - Live Site URL: [netlify]()
-- Live Site URL: [gh-pages]()
+- Live Site URL: [gh-pages](https://mapokes.github.io/Quizzical-App/)
 
 ## My process
 
