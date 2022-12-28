@@ -33,7 +33,7 @@ Users are able to:
 - view TOP 10 results, which are saved in local storage,
 - view loading animation before fetch request is completed,
 - view alert if fetched link won't have any questions with selected quiz options,
-- view timer of game time until "Check answers" button click,
+- view timer with game time until "Check answers" button is clicked,
 - view correct and incorect selected answers and sum of the score,
 - result is saved automatically if its score is in the range of TOP10 saved results in local storage
 
